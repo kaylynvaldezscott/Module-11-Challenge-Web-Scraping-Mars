@@ -10,5 +10,5 @@ Deliverable 1: Scrape titles and preview text from Mars news articles.
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 
-For Deliverable 1, open file labeled ''
-For Deliverable 2, open file labeled ''
+For Deliverable 1, open .ipynb file labeled 'part_1_mars_news-Kaylyn Valdez-Scott'
+For Deliverable 2, open .ipynb file labeled 'part_2_mars_weather-Kaylyn Valdez-Scott'
